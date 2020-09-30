@@ -1,1 +1,3 @@
-# real-world-vue-3
+# Real World Vue 3
+
+Single page applicaiton using Vue 3
